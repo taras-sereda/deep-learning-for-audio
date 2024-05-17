@@ -3,3 +3,8 @@ numpy
 librosa
 matplotlib
 gammatone
+Cython
+nemo_toolkit['all']
+TTS
+torchaudio
+torch
